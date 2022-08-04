@@ -1,1 +1,1 @@
-AirBnB_clone projecs 
+AirBnB_clone projects
