@@ -526,5 +526,6 @@ by adding or changing attribute values.\
             self.assertFalse(HBNBCommand().onecmd("help update"))
             self.assertEqual(msg, f.getvalue().strip())
 
+
 if __name__ == '__main__':
     unittest.main()
