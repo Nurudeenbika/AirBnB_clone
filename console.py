@@ -328,5 +328,6 @@ by adding or changing attribute values.\
     def help_EOF(self):
         print("Exit the command line")
 
+
 if __name__ == '__main__':
     HBNBCommand().cmdloop()
